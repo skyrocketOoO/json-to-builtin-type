@@ -1,0 +1,4 @@
+/home/qy/project/test/build/CMakeFiles/app.dir
+/home/qy/project/test/build/CMakeFiles/test.dir
+/home/qy/project/test/build/CMakeFiles/edit_cache.dir
+/home/qy/project/test/build/CMakeFiles/rebuild_cache.dir
